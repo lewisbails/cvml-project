@@ -1,3 +1,6 @@
+
+Note: The code quality is quite poor as this is a pretty old project, sorry.
+
 # cvml-project
 Transfer Learning for Fine-grained Multi-class Classification of Macroinvertebrate
 
